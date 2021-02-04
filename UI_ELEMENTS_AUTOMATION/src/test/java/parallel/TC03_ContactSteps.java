@@ -44,7 +44,7 @@ public class TC03_ContactSteps {
 	    contact.setEnquiry(message);
 	    
 	    try {
-			Thread.sleep(5000);
+			Thread.sleep(15000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
